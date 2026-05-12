@@ -12,10 +12,6 @@ The automation logic was developed using Mitsubishi PLC programming in GX Works,
 - Acidic and alkaline water neutralization control
 - Process monitoring through HMI
 - Adjustable process timers and control parameters
-- Alarm and fault indication system
-- Emergency stop functionality
-- Overload protection logic
-- Auto restart operation
 - Real-time process status visualization
 
 ## Features
@@ -36,8 +32,6 @@ Industrial Automation / Water Treatment Automation
 ## Files Included
 - PLC program files
 - HMI design files
-- Simulation screenshots
-- Control system documentation
 
 ## Applications
 - Water treatment systems
